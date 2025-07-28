@@ -1,1 +1,2 @@
-# 5217057_Athuluri-soni
+# My Git and SDLC Learning Repo
+This repo contains learning screenshots and concepts for Git and SDLC.
